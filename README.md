@@ -1,6 +1,6 @@
 # clojure-game-geek
 
-My personal repository for working through the lacinia docs tutorial http://lacinia.readthedocs.io/en/latest/tutorial/index.html
+Personal repository for working through the lacinia docs tutorial http://lacinia.readthedocs.io/en/latest/tutorial/index.html
 
 ## Usage
 
